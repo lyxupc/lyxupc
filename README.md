@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyxupc
 - 👀 I’m interested in code
-- 🌱 I’m currently learning pyrhon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on code development
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
